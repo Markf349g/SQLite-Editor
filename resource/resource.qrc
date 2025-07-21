@@ -1,0 +1,7 @@
+<RCC>
+<qresource>
+    <file>app_icon.png</file>
+    <file>file_icon.png</file>
+    <file>folder_icon.png</file>
+</qresource>
+</RCC>

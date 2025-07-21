@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "auto_reload": true,
+    "style": "Breeze"
+  },
+  "readme": {
+    "auto_reload": "Autoreload of view. It's better to be turned off if it's big database.",
+    "style": "Styles for application window. List of styles: Breeze, Oxygen, QtCurve, Windows, Fusion, etc."
+  }
+}
