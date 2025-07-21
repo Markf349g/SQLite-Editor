@@ -24,10 +24,10 @@ Ideal for developers, data analysts, or anyone who works hands-on with `.db` fil
 ## 🖼️ Preview
 
 <p>
-   <img src="assets/photo-1.jpg.jpg" alt="Photo 1" width="400" />
+   <img src="./assets/photo-1.jpg.jpg" alt="Photo 1" width="400" />
 </p>
 <p>
-   <img src="assets/photo-2.jpg.jpg" alt="Photo 2" width="400" />
+   <img src="./assets/photo-2.jpg.jpg" alt="Photo 2" width="400" />
 </p>
 
 ---
